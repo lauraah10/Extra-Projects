@@ -1,10 +1,6 @@
 #  File: playpoker.py
 #  Description: Plays a simple version of poker. Generating the hands, classifying them and telling who the winner is
-#  Student's Name: Laura Ahumada
-#  Student's UT EID: laa2336
 #  Course Name: CS 313E 
-#  Unique Number: 50597
-#
 #  Date Created: September 18, 2015
 #  Date Last Modified: September 25, 2015
 
