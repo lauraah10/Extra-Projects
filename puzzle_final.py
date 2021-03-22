@@ -1,3 +1,11 @@
+#Puzzle solver with Tree search alg assigment for CSMM.101x: Artificial Intelligence (AI) course
+#Solves a puzzle using A star with, bfs and dfs.
+#Print steps to solve and saves on a file the time to solve, the depth of nodes, the cost and ram used
+#Needs to be executed from command line as follow: python3 driver2.py <Search method> <puzzle as a string>
+#example: python3 driver.py bfs 0,8,7,6,5,4,3,2,1
+
+
+
 import queue
 from collections import deque
 import time
@@ -9,7 +17,7 @@ import os
 
 start_time = time.process_time()
 
-#### SKELETON CODE ####
+
 
 ## The Class that Represents the Puzzle
 
