@@ -1,3 +1,4 @@
+#Laura Ahumada
 #Contraing Satisfaction Program assigment for CSMM.101x: Artificial Intelligence (AI) course
 #Solves a sudoku using AC-3 and Backtracking.
 #Print solution and saveds it in a created text file called solution.txt
