@@ -1,4 +1,4 @@
-# Python 
+# Python Programs
 AI & ML Folder:
   - Contains some of the UT micromasters homeworks analysing business cases and applying different a specific data science model using python. 
 
